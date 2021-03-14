@@ -1,0 +1,2 @@
+JavaScript pertama kali dikembangkan pada pertengahan dekade 90’an. Meskipun memiliki nama
+yang hampir serupa, JavaScript berbeda dengan bahasa pemrograman Java. Untuk penulisannya, JavaScript dapat disisipkan di dalam dokumen HTML ataupun dijadikan dokumen tersendiri yang kemudian diasosiasikan dengan dokumen lain yang dituju. JavaScript mengimplementasikan fitur yang dirancang untuk mengendalikan bagaimana sebuah halaman web berinteraksi dengan penggunanya (Henderson,2009:256).
